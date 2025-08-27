@@ -1,0 +1,17 @@
+C:\Users\ernes\OneDrive\Documents\PERSONAL\PT\LINKTIC\sources\linktic\commons\common-dtos\src\main\java\com\linktic\api\utilities\UtilitiesSources.java
+C:\Users\ernes\OneDrive\Documents\PERSONAL\PT\LINKTIC\sources\linktic\commons\common-dtos\src\main\java\com\linktic\api\domain\model\Inventario.java
+C:\Users\ernes\OneDrive\Documents\PERSONAL\PT\LINKTIC\sources\linktic\commons\common-dtos\src\main\java\com\linktic\api\infrastructure\adapater\InventarioRepositoryAdapter.java
+C:\Users\ernes\OneDrive\Documents\PERSONAL\PT\LINKTIC\sources\linktic\commons\common-dtos\src\main\java\com\linktic\api\infrastructure\entity\InventarioEntity.java
+C:\Users\ernes\OneDrive\Documents\PERSONAL\PT\LINKTIC\sources\linktic\commons\common-dtos\src\main\java\com\linktic\api\infrastructure\repository\ProductoJpaRepository.java
+C:\Users\ernes\OneDrive\Documents\PERSONAL\PT\LINKTIC\sources\linktic\commons\common-dtos\src\main\java\com\linktic\api\infrastructure\adapater\ProductoRepositoryAdapter.java
+C:\Users\ernes\OneDrive\Documents\PERSONAL\PT\LINKTIC\sources\linktic\commons\common-dtos\src\main\java\com\linktic\api\infrastructure\errors\ErrorResponseWrapper.java
+C:\Users\ernes\OneDrive\Documents\PERSONAL\PT\LINKTIC\sources\linktic\commons\common-dtos\src\main\java\com\linktic\api\infrastructure\entity\ProductoEntity.java
+C:\Users\ernes\OneDrive\Documents\PERSONAL\PT\LINKTIC\sources\linktic\commons\common-dtos\src\main\java\com\linktic\api\domain\ports\ProductoRepositoryPort.java
+C:\Users\ernes\OneDrive\Documents\PERSONAL\PT\LINKTIC\sources\linktic\commons\common-dtos\src\main\java\com\linktic\api\infrastructure\mapper\InventarioMapper.java
+C:\Users\ernes\OneDrive\Documents\PERSONAL\PT\LINKTIC\sources\linktic\commons\common-dtos\src\main\java\com\linktic\api\domain\ports\InventarioRepositoryPort.java
+C:\Users\ernes\OneDrive\Documents\PERSONAL\PT\LINKTIC\sources\linktic\commons\common-dtos\src\main\java\com\linktic\api\infrastructure\mapper\ProductoMapper.java
+C:\Users\ernes\OneDrive\Documents\PERSONAL\PT\LINKTIC\sources\linktic\commons\common-dtos\src\main\java\com\linktic\api\domain\model\Compra.java
+C:\Users\ernes\OneDrive\Documents\PERSONAL\PT\LINKTIC\sources\linktic\commons\common-dtos\src\main\java\com\linktic\api\infrastructure\errors\NegocioException.java
+C:\Users\ernes\OneDrive\Documents\PERSONAL\PT\LINKTIC\sources\linktic\commons\common-dtos\src\main\java\com\linktic\api\domain\model\Response.java
+C:\Users\ernes\OneDrive\Documents\PERSONAL\PT\LINKTIC\sources\linktic\commons\common-dtos\src\main\java\com\linktic\api\infrastructure\repository\InventarioJpaRepository.java
+C:\Users\ernes\OneDrive\Documents\PERSONAL\PT\LINKTIC\sources\linktic\commons\common-dtos\src\main\java\com\linktic\api\domain\model\Producto.java
